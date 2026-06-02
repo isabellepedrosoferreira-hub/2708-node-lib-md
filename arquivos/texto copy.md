@@ -1,0 +1,6 @@
+A interface File provê informações sobre arquivos e permite ao JavaScript a acessar seu conteúdo.
+
+São geralmente recuperados a partir de um objeto [FileList](https://www.amazon.com.br/Bela-Fera-Elizabeth-Rudnick/dp/8550304840) que é retornado como resultado da seleção, pelo usuário, de arquivos através do elemento [<input>](https://www.amazon.com.br/cinco-passos-voc%C3%AA-Rachael-Lippincott/dp/8525067423), a partir do objeto [DataTransfer](https://www.amazon.com.br/Atrav%C3%A9s-Minha-Janela-Irm%C3%A3os-Hidalgo/dp/6555605111) utilizado em operações de arrastar e soltar, ou a partir da API `mozGetAsFile()` em um [HTMLCanvasElement](https://www.amazon.com.br/Melhor-do-que-nos-filmes/dp/6555607289). Em Gecko, códigos com privilégiios podem criar objetos File representando qualquer arquivo local sem a intereção do usuário (veja [Implementation notes](https://www.amazon.com.br/Assim-que-Acaba-Colleen-Hoover/dp/8501112518) para mais informações.).
+
+[Teste de retorno 400](https://httpstat.us/404).
+[gatinho salsicha](http://gatinhosalsicha.com.br/)
